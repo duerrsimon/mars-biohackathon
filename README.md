@@ -1,7 +1,6 @@
 # Miniprotein stability from Sequence 
 
-Project part of the 2021 
-[https://biohackathon.biolib.com/event/2021-protein-edition/](Protein Biohackathon). 
+Project part of the [2021 Copenhagen Protein Biohackathon](https://biohackathon.biolib.com/event/2021-protein-edition/). 
 
 We participated in the challenge `Predicting multi mutant miniprotein stability`
 
@@ -16,7 +15,7 @@ This architecture has the advantage that one can sample sequences around a seque
 
 A sketch of the architecture is as follows:
 
-![images/modelarchitecture.svg](Architecture)
+![./images/modelarchitecture.svg](Architecture)
 
 The results for the single and multi mutant dataset are as follows:
 
