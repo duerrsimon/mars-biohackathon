@@ -15,7 +15,7 @@ This architecture has the advantage that one can sample sequences around a seque
 
 A sketch of the architecture is as follows:
 
-![./images/modelarchitecture.svg](Architecture)
+![https://raw.githubusercontent.com/duerrsimon/mars-biohackathon/main/images/modelarchitecture.svg](Architecture)
 
 The results for the single and multi mutant dataset are as follows:
 
